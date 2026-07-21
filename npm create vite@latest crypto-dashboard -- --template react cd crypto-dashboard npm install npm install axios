@@ -1,1 +1,4 @@
-
+npm create vite@latest crypto-dashboard -- --template react
+cd crypto-dashboard
+npm install
+npm install axios
